@@ -1,5 +1,5 @@
 # Simple python proxy server
-Simple project to learn more about http
+Simple school project to learn more about http
 
 This is a simple python web cache server that stores web pages for a given amount of time before expiry. It only works for get requests since get requests are what return the whole webpage thats needed. The server only works for http requests, not https.
 
